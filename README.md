@@ -1,6 +1,8 @@
 # Discord Active Devlopper badge claimer 
 ![](assets/logo.png)
 
+# **⚠️This program is archived because discord to remove the grade. See this article ➡️ https://support-dev.discord.com/hc/en-us/articles/10113997751447-Active-Developer-Badge The day they re-create such a badge, I'll 😘 be there to break the toy**
+
 This is a simple script that will claim the active devlopper badge on discord 
 
 __Download rar/tar file [here](https://github.com/50bvd/Discord_ActiveDev_Claimer/releases/tag/release)__
